@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3c1c22b8-7424-4658-af91-b29be9722c67/resourceGroups/bradt-paas-rg/providers/Microsoft.Web/sites/bradt-wa",
+    "appService.deploySubpath": "."
+}
