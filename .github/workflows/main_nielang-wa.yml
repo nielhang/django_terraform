@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'NielAng-wa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BAAF063B20F460D95BC94A6125EB760 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E45E3AAFB0154CA1A15A730A1943E8F0 }}
